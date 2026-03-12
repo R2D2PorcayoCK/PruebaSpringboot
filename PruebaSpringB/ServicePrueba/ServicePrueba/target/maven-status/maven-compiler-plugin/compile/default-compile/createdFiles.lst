@@ -1,0 +1,4 @@
+com\example\ServicePrueba\model\Object.class
+com\example\ServicePrueba\service\ObjectService.class
+com\example\ServicePrueba\controller\ObjectController.class
+com\example\ServicePrueba\ServicePruebaApplication.class
